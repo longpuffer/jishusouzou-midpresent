@@ -151,8 +151,8 @@ details[open] summary {
   position:		relative;
 }
 
-#explain{
-  font-size:		90%;
+.explain{
+  font-size:		80%;
 	color:			#fff;
 }
 .mask{
@@ -172,9 +172,4 @@ details[open] summary {
 .web-title{
   font-size:250%;
   text-align:center;
-}
-
-.card a{
-  text-decoration: none;
-  color: #000;
 }
